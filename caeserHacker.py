@@ -16,3 +16,4 @@ for _ in range(len(symbols)):
             translated += i
 
     print('Key %s: %s' % (_, translated))
+

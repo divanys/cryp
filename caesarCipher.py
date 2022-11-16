@@ -29,3 +29,4 @@ for _ in mess:
         translated += _
 
 print('Зашифровано!\n', translated)
+
